@@ -42,5 +42,5 @@ GDG Cloud Thessaloniki is a volunteer-led tech community. The repositories hoste
 
 ## 🔗 Σύνδεσμοι / Links
 - 🌐 **Community Platform:** [gdg.community.dev/gdg-cloud-thessaloniki](https://gdg.community.dev/gdg-cloud-thessaloniki/)
-- � **Meetup:** [meetup.com/gdg-cloud-thessaloniki](https://www.meetup.com/gdg-cloud-thessaloniki/)
-- �💼 **LinkedIn:** [linkedin.com/company/gdg-cloud-thessaloniki](https://www.linkedin.com/company/gdg-cloud-thessaloniki)
+- 📅 **Meetup:** [meetup.com/gdg-cloud-thessaloniki](https://www.meetup.com/gdg-cloud-thessaloniki/)
+- 💼 **LinkedIn:** [linkedin.com/company/gdg-cloud-thessaloniki](https://www.linkedin.com/company/gdg-cloud-thessaloniki)
